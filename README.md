@@ -3,7 +3,7 @@
 >The goal of this repo is to give you some tips and a solid head-start to finding your first job as a developer.
 
 You've already learned a lot of skills now - but ask yourself: Is that visible in my portfolio and CV? 
-Presenting yourself well and being prepared job interviews is almost just as important as the actual skills, so let's make sure that you present yourself just as good as you actually are!
+Presenting yourself well and being prepared for job interviews is almost just as important as the actual skills, so let's make sure that you present yourself just as good as you actually are!
 
 There are many online resources that can help you get ready for a job, and we want to share the best of them with you.
 

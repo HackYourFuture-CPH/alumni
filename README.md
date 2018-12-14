@@ -7,7 +7,7 @@ Presenting yourself well and being prepared for job interviews is almost just as
 
 There are many online resources that can help you get ready for a job, and we want to share the best of them with you.
 
-#### Get started here:
+### Get started here:
 Check out our [wiki](https://github.com/HackYourFuture-CPH/alumni/wiki) for all the information you need to land your first job! 
 
 

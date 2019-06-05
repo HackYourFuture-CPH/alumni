@@ -43,3 +43,11 @@ Fulfill the below user stories and _**give this app your own personal style and 
 **EXAMPLE**: `3 + 5 x 6 - 2 / 4 =`
 Immediate Execution Logic: `11.5`
 Formula/Expression Logic: `32.5`
+
+***
+
+Once you're done, upload your project to your github and submit a URL of your working project to your class. You can use https://www.netlify.com/ to do so. You will be asked to explain your code and learnings on our upcoming session so that you can improve both yous skills and the project itself.
+
+After feedback and revisions do not forget to add the project to your CV to spark the interest of recruiters and hiring managers and to show you are passionate about programming. For more information on how to add personal projects to your CV check [this article](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/).
+
+Happy coding!

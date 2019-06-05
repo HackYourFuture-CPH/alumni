@@ -14,7 +14,7 @@ Fulfill the below user stories and _**give this app your own personal style and 
 
 **User Story #3**: My calculator should contain 4 clickable elements each containing one of the 4 primary mathematical operators with the following corresponding IDs: `id="add"`, `id="subtract"`, `id="multiply"`, `id="divide"`.
 
-`User Story #4`: My calculator should contain a clickable element containing a `.` (decimal point) symbol with a corresponding `id="decimal"`.
+**User Story #4**: My calculator should contain a clickable element containing a `.` (decimal point) symbol with a corresponding `id="decimal"`.
 
 **User Story #5**: My calculator should contain a clickable element with an `id="clear"`.
 

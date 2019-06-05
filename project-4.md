@@ -1,35 +1,34 @@
-## Project 4: Build a Build a JavaScript Calculator
+## Project 4: Build the Simon Game
 
 Fulfill the below user stories and _**give this app your own personal style and add new functionalities**_! 
 
-![Picture of JavaScript calculator](https://i.imgur.com/aJ7meEL.jpg)
+![Picture of Simon Game](https://i.imgur.com/X5ZsVTC.jpg)
 
 ---
 
 ### User Stories
 
-**User Story #1**: 
+**User Story #1**: I am presented with a random series of button presses.
 
-**User Story #2**: 
+**User Story #2**: Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
 
-**User Story #3**: My calculator should contain 4 clickable elements each containing one of the 4 primary mathematical operators with the following corresponding IDs: `id="add"`, `id="subtract"`, `id="multiply"`, `id="divide"`.
+**User Story #3**: I hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button.
 
-**User Story #4**: My calculator should contain a clickable element containing a `.` (decimal point) symbol with a corresponding `id="decimal"`.
+**User Story #4**: If I press the wrong button, I am notified that I have done so, and that series of button presses starts again to remind me of the pattern so I can try again.
 
-**User Story #5**: My calculator should contain a clickable element with an `id="clear"`.
+**User Story #5**: I can see how many steps are in the current series of button presses.
 
-**User Story #6**: My calculator should contain an element to display values with a corresponding `id="display"`.
+**User Story #6**: If I want to restart, I can hit a button to do so, and the game will return to a single step.
 
-**User Story #7**: At any time, pressing the clear button clears the input and output values, and returns the calculator to its initialized state; 0 should be shown in the element with the id of `display`.
+**User Story #7**: I can play in strict mode where if I get a button press wrong, it notifies me that I have done so, and the game restarts at a new random series of button presses.
 
-**User Story #8**: As I input numbers, I should be able to see my input in the element with the id of `display`.
+**User Story #8**: I can win the game by getting a series of 20 steps correct. I am notified of my victory, then the game starts over.
 
-**User Story #9**: In any order, I should be able to add, subtract, multiply and divide a chain of numbers of any length, and when I hit `=`, the correct result should be shown in the element with the id of `display`.
-
-**User Story #10**: When inputting numbers, my calculator should not allow a number to begin with multiple zeros.
-
-
-
+**Hint**: Here are mp3s you can use for each button:    
+`https://s3.amazonaws.com/freecodecamp/simonSound1.mp3`, 
+`https://s3.amazonaws.com/freecodecamp/simonSound2.mp3`, 
+`https://s3.amazonaws.com/freecodecamp/simonSound3.mp3`, 
+`https://s3.amazonaws.com/freecodecamp/simonSound4.mp3`.
 
 ***
 

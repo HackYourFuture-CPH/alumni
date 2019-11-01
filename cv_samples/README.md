@@ -4,10 +4,11 @@
 
 Here are some good ideas and examples of CV's from both mentors and graduates that you can use as a starting point:
 
-https://pmcalabrese.com/  
-https://www.marcodecara.com/
-https://nirmalathapa.github.io/resume/
-https://zuhair-taha-cv.herokuapp.com/
-https://asma2018.github.io/myportfolio/
-http://zkwsk.co/
-https://monya.netlify.com/
+https://pmcalabrese.com/   
+https://www.marcodecara.com/     
+https://nirmalathapa.github.io/resume/    
+https://zuhair-taha-cv.herokuapp.com/     
+https://asma2018.github.io/myportfolio/      
+http://zkwsk.co/     
+https://monya.netlify.com/     
+
